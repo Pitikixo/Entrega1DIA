@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reparaciones>
+  <Reparacion>
+    <type>Compleja</type>
+    <aparato>TV</aparato>
+    <numSer>1234577</numSer>
+    <mod>radio3000</mod>
+    <ext>74</ext>
+    <duracion>6</duracion>
+    <coste>85</coste>
+  </Reparacion>
+</Reparaciones>
